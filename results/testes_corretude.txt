@@ -1,0 +1,12 @@
+== Montanha-russa, 1 carro ==
+   4 ok
+== Montanha-russa, m carros (sem sleep = maxima concorrencia) ==
+   283 ok
+== Babuinos (solucao justa) ==
+   15 ok
+   watchdog (variante defeituosa, ~10 s)...
+   watchdog detectou o deadlock injetado: ok
+== H2O ==
+   105 ok
+
+TOTAL: 408 testes ok, 0 falhas

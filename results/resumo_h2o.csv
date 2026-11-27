@@ -1,0 +1,8 @@
+versao,moleculas,reps,validas,invalidas,travou,T_media,moleculas_por_s
+corrigida,10,30,30,0,0,0.0005986,17060
+corrigida,100,30,30,0,0,0.0060949,17174
+corrigida,1000,30,30,0,0,0.062006,17168
+corrigida,3000,30,30,0,0,0.35151,16752
+livro,10,30,28,0,2,0.0010065,12858
+livro,100,30,0,5,25,0.0059134,17135
+livro,300,30,0,1,29,0.019253,15582
